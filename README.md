@@ -1,43 +1,52 @@
-<div align="center">
-  <!-- نجمة كتلمع -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" width="40" />
-  <br>
-  
-  <!-- اللوغو ديالك -->
-  <img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="200" style="border-radius: 50%; border: 3px solid #9b5de5; margin-bottom: 10px;" alt="Chaimaa Logo" />
-  
-  <h2>Hi there, I'm Chaimaa Elhamssani! 👋</h2>
-  
-  <!-- الكتابة اللي كتحرك (الزقلي) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Turning+Data+into+Decisions+%E2%9A%A1;%F0%9F%92%BB+Data+Science+%26+AI+%F0%9F%92%BB;%F0%9F%9A%80+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <p><b>Étudiante en Ingénierie des Données (Data Science) à l'ENSA Khouribga 🇲🇦</b></p>
-  <p>Passionnée par la Data Science, l'IA et le Développement Web.</p>
+ <div align="center">
 
-  <a href="mailto:chimaaeelhamssani695@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/chimaaelhamssani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:C77DFF,100:FF9AD5&height=180&section=header&text=CHAIMAA&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20Engineering%20%7C%20AI%20%7C%20Creative%20Developer&descAlignY=65&descSize=16" width="100%"/>
+
+✨ 💜 ✨ 🌟 ✨ 💜 ✨
+
+<img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="220" alt="Chaimaa Logo"/>
+
+### Hi there, I'm Chaimaa Elhamssani! 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Data+Science+%26+Artificial+Intelligence;Always+Learning+%26+Creating" />
+
+**Étudiante en Ingénierie Informatique des Données (IID)**
+
+ENSA Khouribga · Morocco 🇲🇦
+
+Passionnée par la Data Science, l'IA et le développement informatique.
+
+<a href="mailto:chaimaeelhamssani695@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/chimaaelhamssani"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
 
-<br>
+---
 
-<h3 align="center">🚀 Langages et Outils</h3>
+<h3 align="center">✧ Languages & Tools ✧</h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,git,github,vscode,linux&theme=light" />
+
 </div>
 
-<br>
+---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">💜 GitHub Statistics</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaaelhamssani&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=FF9AD5"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaaelhamssani&layout=compact&theme=tokyonight&hide_border=true&title_color=C77DFF"/>
+
+</div>
+
+<div align="center">
+
+✨ Keep learning. Keep creating. Keep shining. ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AD5,50:C77DFF,100:8A2BE2&height=100&section=footer"/>
+
 </div>
