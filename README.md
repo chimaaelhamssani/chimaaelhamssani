@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=EDE5F7&height=180&section=header&text=C%20%2B%20M&fontSize=65&fontColor=9279B8&animation=fadeIn&fontAlignY=48" width="100%"/>
+<img src="./logo.svg" width="150" alt="Chaimaa CM Logo"/>
 
 # CHAIMAA ELHAMSSANI
 
@@ -84,4 +84,4 @@ Travail académique autour des bases de données et du langage SQL.
 
 **CHAIMAA ♡**
 
-</div
+</div>
