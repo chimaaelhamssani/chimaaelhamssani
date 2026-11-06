@@ -1,87 +1,47 @@
-<div align="center">
 
-<img src="./logo.svg" width="150" alt="Chaimaa CM Logo"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A77B2B"/>
+      <stop offset="50%" stop-color="#E4C36F"/>
+      <stop offset="100%" stop-color="#B18A3E"/>
+    </linearGradient>
+  </defs>
 
-# CHAIMAA ELHAMSSANI
+  <rect width="512" height="512" rx="80" fill="#FFFEF8"/>
 
-### DATA ENGINEERING STUDENT · DATA & AI
+  <circle cx="256" cy="235" r="174"
+          fill="none" stroke="url(#gold)" stroke-width="4"/>
 
-**ENSA Khouribga · Morocco 🇲🇦**
+  <circle cx="256" cy="235" r="162"
+          fill="none" stroke="#EDE2C9" stroke-width="1.5"/>
 
-[GitHub](https://github.com/chimaaelhamssani) · [Email](mailto:chaimaeelhamssani695@gmail.com)
+  <g fill="none" stroke="url(#gold)" stroke-width="9"
+     stroke-linecap="round" stroke-linejoin="round">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8DDF5&height=3" width="100%"/>
+    <!-- C -->
+    <path d="M205 163 C170 135 125 155 125 205
+             C125 255 170 275 205 247"/>
 
-</div>
+    <!-- H -->
+    <path d="M215 155 V255 M215 205 H265 M265 155 V255"/>
 
-## ✦ ABOUT ME
+    <!-- A -->
+    <path d="M270 255 L310 155 L350 255 M285 218 H335"/>
 
-Élève ingénieure en troisième année en **Ingénierie Informatique des Données (IID)** à l'ENSA Khouribga.
+    <!-- I -->
+    <path d="M365 155 V255"/>
 
-Je m'intéresse à l'analyse de données, à l'intelligence artificielle et au développement informatique. J'aime apprendre de nouvelles technologies et construire des projets pratiques.
+    <!-- M -->
+    <path d="M145 270 L175 305 L205 270 L235 305 L265 270"/>
 
-## ✦ TECHNICAL SKILLS
+    <!-- E -->
+    <path d="M285 270 H355 M285 287 H340 M285 305 H355"/>
+  </g>
 
-| Domaine | Technologies |
-|:--|:--|
-| Programming | Python · C · Java |
-| Web Development | HTML · CSS · JavaScript · React |
-| Databases | SQL · Database Fundamentals |
-| Tools | Git · GitHub · VS Code |
-| Environment | Linux · Ubuntu |
+  <path d="M190 355 H322" stroke="#D8C49A" stroke-width="2"/>
 
-## ✦ FEATURED PROJECTS
-
-<details>
-<summary>01 — NOVA AI · Intelligent Assistant</summary>
-
-Développement progressif d'une interface web pour un assistant intelligent.
-
-</details>
-
-<details>
-<summary>02 — Image Processing</summary>
-
-Projet académique de traitement d'images avec Python et MATLAB.
-
-</details>
-
-<details>
-<summary>03 — Web Development</summary>
-
-Conception et développement d'une plateforme web.
-
-</details>
-
-<details>
-<summary>04 — SQL Project</summary>
-
-Travail académique autour des bases de données et du langage SQL.
-
-</details>
-
-## ✦ CURRENT FOCUS
-
-- Approfondissement des compétences en programmation.
-- Apprentissage des bases de données et de l'analyse de données.
-- Développement de projets personnels en informatique.
-
-## ✦ GITHUB OVERVIEW
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=9478B8&icon_color=E69AC2&text_color=555555" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaaelhamssani&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=9478B8&text_color=555555" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8DDF5&height=2" width="100%"/>
-
-*Learning · Building · Improving*
-
-**CHAIMAA ♡**
-
-</div>
+  <text x="256" y="395" text-anchor="middle"
+        font-family="Georgia,serif" font-size="23"
+        letter-spacing="7" fill="#A9843D">CHAIMAA</text>
+</svg>
