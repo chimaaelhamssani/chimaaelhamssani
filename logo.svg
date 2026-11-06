@@ -16,26 +16,21 @@
   <circle cx="256" cy="235" r="162"
           fill="none" stroke="#EDE2C9" stroke-width="1.5"/>
 
-  <g fill="none" stroke="url(#gold)" stroke-width="9"
+  <g transform="translate(256 230) scale(1.25) translate(-256 -230)"
+     fill="none" stroke="url(#gold)" stroke-width="9"
      stroke-linecap="round" stroke-linejoin="round">
 
-    <!-- C -->
     <path d="M205 163 C170 135 125 155 125 205
              C125 255 170 275 205 247"/>
 
-    <!-- H -->
     <path d="M215 155 V255 M215 205 H265 M265 155 V255"/>
 
-    <!-- A -->
     <path d="M270 255 L310 155 L350 255 M285 218 H335"/>
 
-    <!-- I -->
     <path d="M365 155 V255"/>
 
-    <!-- M -->
     <path d="M145 270 L175 305 L205 270 L235 305 L265 270"/>
 
-    <!-- E -->
     <path d="M285 270 H355 M285 287 H340 M285 305 H355"/>
   </g>
 
