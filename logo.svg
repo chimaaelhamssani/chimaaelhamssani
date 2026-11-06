@@ -1,5 +1,7 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024">
+
   <defs>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#A77B2B"/>
@@ -8,35 +10,55 @@
     </linearGradient>
   </defs>
 
-  <rect width="512" height="512" rx="80" fill="#FFFEF8"/>
+  <!-- Square ivory background -->
+  <rect width="1024" height="1024" fill="#FFFEF8"/>
 
-  <circle cx="256" cy="235" r="174"
-          fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <!-- Subtle square frame -->
+  <rect x="35" y="35" width="954" height="954"
+        rx="35" fill="none"
+        stroke="#EDE2C9" stroke-width="3"/>
 
-  <circle cx="256" cy="235" r="162"
-          fill="none" stroke="#EDE2C9" stroke-width="1.5"/>
+  <!-- Large gold monogram -->
+  <g transform="translate(512 460) scale(1.65) translate(-256 -230)"
+     fill="none"
+     stroke="url(#gold)"
+     stroke-width="10"
+     stroke-linecap="round"
+     stroke-linejoin="round">
 
-  <g transform="translate(256 230) scale(1.25) translate(-256 -230)"
-     fill="none" stroke="url(#gold)" stroke-width="9"
-     stroke-linecap="round" stroke-linejoin="round">
-
+    <!-- C -->
     <path d="M205 163 C170 135 125 155 125 205
              C125 255 170 275 205 247"/>
 
+    <!-- H -->
     <path d="M215 155 V255 M215 205 H265 M265 155 V255"/>
 
+    <!-- A -->
     <path d="M270 255 L310 155 L350 255 M285 218 H335"/>
 
+    <!-- I -->
     <path d="M365 155 V255"/>
 
+    <!-- M -->
     <path d="M145 270 L175 305 L205 270 L235 305 L265 270"/>
 
+    <!-- E -->
     <path d="M285 270 H355 M285 287 H340 M285 305 H355"/>
+
   </g>
 
-  <path d="M190 355 H322" stroke="#D8C49A" stroke-width="2"/>
+  <!-- Elegant separator -->
+  <path d="M300 790 H724"
+        stroke="#D8C49A" stroke-width="4"/>
 
-  <text x="256" y="395" text-anchor="middle"
-        font-family="Georgia,serif" font-size="23"
-        letter-spacing="7" fill="#A9843D">CHAIMAA</text>
+  <!-- Brand name -->
+  <text x="512" y="855"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="55"
+        letter-spacing="13"
+        fill="#A9843D">
+    CHAIMAA
+  </text>
+
 </svg>
