@@ -1,48 +1,32 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:C77DFF,100:FF9AD5&height=180&section=header&text=CHAIMAA&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20Engineering%20%7C%20AI%20%7C%20Creative%20Developer&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFFBFF,35:C9E8FF,70:DCCBFF,100:F8E9FF&height=220&section=header&text=CHAIMAA&fontSize=68&fontColor=665B91&fontAlignY=38&animation=fadeIn&desc=✧%20A%20Little%20World%20of%20Data%20%26%20AI%20✧&descSize=16&descColor=756C9D&descAlignY=62" width="100%"/>
 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100%" height="90" alt="Sparkling particles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=19&pause=1200&color=8A9CCB&center=true&vCenter=true&width=650&lines=❄+Welcome+to+my+Winter+World+❄;Turning+Data+into+Decisions;Exploring+Artificial+Intelligence;Learning+Something+New+Every+Day+✧" />
 
-<img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="220" alt="Chaimaa Logo"/>
+<br/>
 
-### Hi there, I'm Chaimaa Elhamssani! 👋
+<img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="190" alt="Chaimaa Logo"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Data+Science+%26+Artificial+Intelligence;Always+Learning+%26+Creating" />
+# 𓂃 ࣪˖ About Me
 
-**Étudiante en Ingénierie Informatique des Données (IID)**
+**Chaimaa Elhamssani**
 
+Étudiante en Ingénierie Informatique des Données (IID)  
 ENSA Khouribga · Morocco 🇲🇦
 
-Passionnée par la Data Science, l'IA et le développement informatique.
+Passionnée par la Data Science, l'Intelligence Artificielle et le développement informatique.
 
-<a href="mailto:chaimaeelhamssani695@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/chimaaelhamssani"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/>
 
-</div>
+❄️ ✧ ❄️ ✧ ❄️ ✧ ❄️
 
----
-
-<h3 align="center">✧ Languages & Tools ✧</h3>
-
-<div align="center">
+## 𓂃 ࣪˖ Languages & Technologies
 
 <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,git,github,vscode,linux&theme=light" />
 
-</div>
+<br/>
 
----
+## 𓂃 ࣪˖ GitHub Statistics
 
-<h3 align="center">💜 GitHub Statistics</h3>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=FF9AD5"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaaelhamssani&layout=compact&theme=tokyonight&hide_border=true&title_color=C77DFF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&theme=default&hide_border=true&title_color=8A80
