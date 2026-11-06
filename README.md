@@ -1,7 +1,16 @@
 <div align="center">
-  <img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="200" style="border-radius: 50%; border: 3px solid #9b5de5; margin-bottom: 20px;" alt="Chaimaa Logo" />
+  <!-- نجمة كتلمع -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" width="40" />
+  <br>
+  
+  <!-- اللوغو ديالك -->
+  <img src="https://github.com/chimaaelhamssani/chimaaelhamssani/blob/main/desgin.jpeg?raw=true" width="200" style="border-radius: 50%; border: 3px solid #9b5de5; margin-bottom: 10px;" alt="Chaimaa Logo" />
   
   <h2>Hi there, I'm Chaimaa Elhamssani! 👋</h2>
+  
+  <!-- الكتابة اللي كتحرك (الزقلي) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Turning+Data+into+Decisions+%E2%9A%A1;%F0%9F%92%BB+Data+Science+%26+AI+%F0%9F%92%BB;%F0%9F%9A%80+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  
   <p><b>Étudiante en Ingénierie des Données (Data Science) à l'ENSA Khouribga 🇲🇦</b></p>
   <p>Passionnée par la Data Science, l'IA et le Développement Web.</p>
 
