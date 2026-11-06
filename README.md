@@ -1,47 +1,88 @@
+# ✦ CHAIMAA ELHAMSSANI
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#A77B2B"/>
-      <stop offset="50%" stop-color="#E4C36F"/>
-      <stop offset="100%" stop-color="#B18A3E"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <rect width="512" height="512" rx="80" fill="#FFFEF8"/>
+<img src="./logo.svg" width="145" alt="Chaimaa Gold Logo"/>
 
-  <circle cx="256" cy="235" r="174"
-          fill="none" stroke="url(#gold)" stroke-width="4"/>
+### DATA ENGINEERING STUDENT · DATA & AI
 
-  <circle cx="256" cy="235" r="162"
-          fill="none" stroke="#EDE2C9" stroke-width="1.5"/>
+**Engineering Student | Data Enthusiast | Future Data Engineer**
 
-  <g fill="none" stroke="url(#gold)" stroke-width="9"
-     stroke-linecap="round" stroke-linejoin="round">
+ENSA Khouribga · Morocco
 
-    <!-- C -->
-    <path d="M205 163 C170 135 125 155 125 205
-             C125 255 170 275 205 247"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-252525?style=flat-square&logo=github)](https://github.com/chimaaelhamssani)
+[![Email](https://img.shields.io/badge/Email-Contact-C6A04A?style=flat-square&logo=gmail&logoColor=white)](mailto:chaimaeelhamssani695@gmail.com)
 
-    <!-- H -->
-    <path d="M215 155 V255 M215 205 H265 M265 155 V255"/>
+</div>
 
-    <!-- A -->
-    <path d="M270 255 L310 155 L350 255 M285 218 H335"/>
+---
 
-    <!-- I -->
-    <path d="M365 155 V255"/>
+## ABOUT ME
 
-    <!-- M -->
-    <path d="M145 270 L175 305 L205 270 L235 305 L265 270"/>
+I'm a third-year engineering student in **Data Engineering (IID)** at ENSA Khouribga, Morocco.
 
-    <!-- E -->
-    <path d="M285 270 H355 M285 287 H340 M285 305 H355"/>
-  </g>
+I'm interested in the intersection of **Data, Artificial Intelligence, and Software Development**. I enjoy learning how to transform ideas into practical solutions through programming, data analysis, and technology.
 
-  <path d="M190 355 H322" stroke="#D8C49A" stroke-width="2"/>
+Currently, I'm strengthening my technical foundations and developing personal and academic projects.
 
-  <text x="256" y="395" text-anchor="middle"
-        font-family="Georgia,serif" font-size="23"
-        letter-spacing="7" fill="#A9843D">CHAIMAA</text>
-</svg>
+---
+
+## TECHNICAL SKILLS
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, C, Java |
+| Web Development | HTML, CSS, JavaScript, React |
+| Databases | SQL |
+| Tools | Git, GitHub, VS Code |
+| Operating Systems | Linux, Ubuntu |
+
+---
+
+## FEATURED PROJECTS
+
+### ✦ NOVA AI — Personal AI Assistant
+A personal AI assistant interface project focused on creating an interactive user experience.
+
+**Technologies:** React, JavaScript, CSS
+
+### ✦ Image Processing
+An academic project exploring image processing concepts and practical implementation.
+
+**Technologies:** Python, MATLAB
+
+### ✦ Web Development
+Exploring the development of modern web applications and interactive interfaces.
+
+**Technologies:** HTML, CSS, JavaScript, React
+
+---
+
+## CURRENT FOCUS
+
+- Strengthening programming and algorithmic skills.
+- Learning data management and SQL.
+- Exploring data analysis and artificial intelligence.
+- Developing practical projects in software and data engineering.
+
+---
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chimaaelhamssani&show_icons=true&hide_border=true&title_color=C6A04A&icon_color=A58ABF&text_color=777777&bg_color=FFFEFA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chimaaelhamssani&layout=compact&hide_border=true&title_color=C6A04A&text_color=777777&bg_color=FFFEFA)
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILDING · LEARNING · INNOVATING**
+
+<sub>Designed with care · Chaimaa Elhamssani © 2026</sub>
+
+</div>
