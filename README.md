@@ -22,7 +22,7 @@ ENSA Khouribga · Morocco
 
 ## ✦ ABOUT ME
 
-Hello! I'm **Chaimaa**, a third-year engineering student in **Data Engineering** at ENSA Khouribga, Morocco.
+Hello! I'm **Chaimaa**, a first-year engineering student in **Data Engineering** at ENSA Khouribga, Morocco.
 
 I'm interested in understanding how data can be transformed into useful information and intelligent solutions.
 
